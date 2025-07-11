@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "proxy": "http://chessmate-lemon.vercel.app",
+  "proxy": "https://chessmate-lemon.vercel.app",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
