@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@media screen and (max-width:590px) {
+  h1{
+    @apply text-xl
+  }
+}
+
+.input {
+  @apply w-full h-10 rounded-md px-3 py-2 border focus-visible:outline-none 
+          bg-slate-800/50 border-green-500/30 text-green-100 
+          placeholder:text-green-300/50 mb-2 mt-4;
+}

@@ -1,0 +1,5 @@
+export const registerRoute = '/api/auth/register'
+export const welcomeRoute = '/api/auth/'
+export const loginRoute = '/api/auth/login'
+export const optionRoute = '/api/auth/option'
+export const gameRoute = '/api/auth/game'
