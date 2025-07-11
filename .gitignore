@@ -8,6 +8,11 @@ backend/build/
 frontend/dist/
 backend/dist/
 
+# mongodb+srv://kanikaweb26:CdEXFOT5QO2Za0RM@chessmate.wdh0yyq.mongodb.net/
+# kanikaweb26
+# CdEXFOT5QO2Za0RM
+
+
 # Ignore environment files
 .env
 frontend/.env
