@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "proxy":"https://chessmate-s3tr.onrender.com",
+  "proxy":"https://chessmate-lemon.vercel.app",
   
   "scripts": {
     "dev": "vite",
